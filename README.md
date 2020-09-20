@@ -5,5 +5,5 @@
 ### 저는 여기에도 있어요 😋
 
 - [포트폴리오](https://joongihong.github.io)
-- [Medium](https://medium.com/@joongi1978)
+- [티스토리](https://joongihong.tistory.com/)
 - [Baekjoon](https://solved.ac/profile/joongi1978)
