@@ -3,7 +3,7 @@
 고입이라는 중요한 산을 앞두고 있기에 학업과 병행하며 조금씩 프로그래밍을 하고 있습니다.  
 최근에는 ai 관련 대회를 나가고 나서 흥미가 생겨 ai 관련한 공부를 하고 있습니다.
 
-Hello, I'm Joongi Hong, a middle school student who is interested in Science and Programming.
+Hello, I'm Joongi Hong, a middle school student who is interested in Science and Programming.  
 I'm programming along with my studies. I'm studying ai little bit these days.
 
 ###  👨‍🎓 About
